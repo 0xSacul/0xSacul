@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, HTML, CSS, PHP, ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://sacul.fr](https://sacul.fr)
-
-- 📝 I regularly write articles on [https://sacul.fr/blog](https://sacul.fr/blog)
+- 👨‍💻 All of my projects are available at [https://sacul.cloud](https://sacul.cloud)
 
 - 📫 How to reach me **contact@sacul.fr**
 
