@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/0xsacul" target="blank"><img src="https://img.shields.io/twitter/follow/0xsacul?logo=twitter&style=for-the-badge" alt="0xsacul" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, HTML, CSS, PHP, ReactJS**
+- 🌱 I’m currently learning **VueJS**
 
 - 👨‍💻 All of my projects are available at [https://sacul.cloud](https://sacul.cloud)
 
-- 📫 How to reach me **contact@sacul.fr**
+- 📫 How to reach me **hello@sacul.cloud**
 
 - ⚡ Fun fact **I'm ugly**
 
