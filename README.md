@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hello@sacul.cloud**
 
-- ⚡ Fun fact **I'm ugly**
+- ⚡ Fun fact **I'm me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
