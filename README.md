@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working with [Project Dignity](https://dignity-games.com/)
 
-- 🌱 I’m currently learning **VueJS, React, D3.js, TypeScript, Rust**
-
 - 🔭 And also working for [Sunflower Land](https://sunflower-land.com/)
+
+- 🌱 I’m currently learning **VueJS, React, D3.js, TypeScript, Rust**
 
 - 👨‍💻 All of my projects are available at [https://sacul.cloud/](https://sacul.cloud/)
 
