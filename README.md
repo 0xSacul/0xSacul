@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for [Sunflower Land](https://sunflower-land.com/).
 
-- 🔭 And also working for [Project Dignity](https://dignity-games.com/).
+- 🔭 And also working with [Project Dignity](https://dignity-games.com/).
 
 - 🌱 I’m currently learning **VueJS, React, D3.js, TypeScript, Rust**
 
