@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/0xsacul" target="blank"><img src="https://img.shields.io/twitter/follow/0xsacul?logo=twitter&style=for-the-badge" alt="0xsacul" /></a> </p>
 
-- 🔭 I’m currently working with [Project Dignity](https://dignity-games.com/)
+- 🔭 I’m currently working for [Sunflower Land](https://sunflower-land.com/).
 
-- 🔭 And also working for [Sunflower Land](https://sunflower-land.com/)
+- 🔭 And also working for [Project Dignity](https://dignity-games.com/).
 
 - 🌱 I’m currently learning **VueJS, React, D3.js, TypeScript, Rust**
 
