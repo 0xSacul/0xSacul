@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with **Sunflower Land**.<br>🌱 I’m currently learning **Rust, Swift**<br>👨‍💻 All of my projects are available at https://sacul.cloud/
+🔭 I’m currently working with **myself lol**.<br>🌱 I’m currently learning **Rust, Swift**<br>👨‍💻 All of my projects are available at https://sacul.cloud/
 
 
 ## 🌐 Socials:
